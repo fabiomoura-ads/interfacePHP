@@ -3,6 +3,9 @@ Scripts PHP com exemplo funcional de utilização de Interface.
 
 Serviço /service/cadastros_interface_service.php, neste arquivo existem dois métodos implementados com utilização de Interface, criaObjetoDaInterfaceWeb() e cadastrar();
 
+"Este script foi criado para utilização em um aplicativo mobile, que iria realizar cadastros em uma outra aplicação web."
+--
+
 Para testar
 
 -Criar um banco com nome teste, e importar o arquivo teste.sql, localizado na pasta 'extra' do projeto.
