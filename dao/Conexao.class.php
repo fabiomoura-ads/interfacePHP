@@ -4,7 +4,7 @@
 
 		private $dataBase 	= "mysql";
 		private $hostName	= "localhost";
-		private $dbName 	= "ibopar_db";
+		private $dbName 	= "teste";
 		private $userName 	= "root";
 		private $password 	= "";
 		private $dao 		= null;		
