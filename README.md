@@ -3,7 +3,7 @@ Scripts PHP com exemplo funcional de utilização de Interface.
 
 Consumo do seriço: /service/cadastros_interface_service.php, existem dois métodos implementados por interface, criaObjetoDaInterfaceWeb() e cadastrar();
 
-Para testar
+Para testar \n
 Acessando o arquivo Testes_de_Cadastros.html, poderá ser realizado testes de inserção, para ver o funcionamento da interface aplicada.
 No formulário é preciso enviar dois inputs adicionais:
 1 - Nome do seriço: 
