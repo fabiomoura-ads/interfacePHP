@@ -5,7 +5,7 @@ Serviço /service/cadastros_interface_service.php, neste arquivo existem dois m�
 
 Para testar
 
--Criar um banco com nome teste, e importar o arquivo teste.sql, dentro da pasta 'extra'
+-Criar um banco com nome teste, e importar o arquivo teste.sql, localizado na pasta 'extra' do projeto.
 
 -Mysql usuário root, sem senha
 
